@@ -28,6 +28,7 @@ body {
 .accordion {
   background-color: white;
   border: 2px solid white;
+  padding: 32px;
 }
 
 .accordion .question {
